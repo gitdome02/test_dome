@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         Log.e("message","zhanghai1989");
         Log.e("=====",">");
         Log.e("<","=======");
+        Log.e("11","22");
     }
 }

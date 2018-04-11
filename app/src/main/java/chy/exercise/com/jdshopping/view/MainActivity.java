@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.e("message","zhanghai1989");
         Log.e("=====",">");
+        Log.e("<","=======");
     }
 }

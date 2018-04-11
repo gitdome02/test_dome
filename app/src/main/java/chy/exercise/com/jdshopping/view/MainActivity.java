@@ -13,9 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.e("message","zhanghai1989");
-        Log.e("msg","changhaiyang01");
-        Log.e("msg","changhaiyang");
         Log.e("=====",">");
-
     }
 }
